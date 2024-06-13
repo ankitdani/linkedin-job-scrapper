@@ -54,5 +54,5 @@ This repository contains a Python script that scrapes job listings from LinkedIn
 
 ## Notes
 
-- The script retrieves job listings from LinkedIn using publicly accessible URLs. Ensure you comply with LinkedIn's terms of service and usage policies when using this script.
+- The script retrieves job listings from LinkedIn using publicly accessible URLs. 
 - The script might need adjustments if LinkedIn changes its website structure.
